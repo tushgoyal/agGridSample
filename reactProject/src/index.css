@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  margin-top: 1%;
+  margin-left: 8%;
+}
+.App button {
+  width: 120px;
+  height: 30px;
+  margin: 5px;
+  background-color: brown;
+  color: white;
+}

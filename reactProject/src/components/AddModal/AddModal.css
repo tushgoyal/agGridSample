@@ -1,0 +1,29 @@
+hr {
+    width: 30rem;
+}
+
+.formData {
+    display: flex;
+    justify-content: flex-end;
+    padding: .5em;
+    background-color: whitesmoke;
+}
+
+.formData label {
+    padding: .5em 1em .5em 0;
+    flex: 1;
+}
+
+.formData input {
+    flex: 2;
+}
+  
+.formData button {
+   align-content: center;
+}
+
+.closeIcon {
+    width: 15px;
+    float: right;
+    cursor: pointer;
+}
